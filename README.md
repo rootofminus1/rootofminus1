@@ -11,7 +11,7 @@ Hi, I'm a software engineer and university student drawn to systems, backend, an
 ### Noteworthy:
 
 - [live-piano-monitor](https://github.com/rootofminus1/live-piano-monitor) - live polyphonic piano transcription system (WIP)
-- [ScrapeScribe](https://github.com/orgs/ScrapeScribe) - scraping as a service
+- [ScrapeScribe](https://github.com/SrapeScribe) - scraping as a service
 - [tf2tts](https://github.com/rootofminus1/tf2tts) - a tts tool for tf2 gaming
 - [celestenet-selfhost](https://github.com/rootofminus1/celestenet-selfhost) - an easy way to host CelesteNet servers in the cloud
 - [the-bot-v6](https://github.com/rootofminus1/the-bot-v6) - my personal rusty discord bot
