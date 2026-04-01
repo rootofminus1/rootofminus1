@@ -1,32 +1,32 @@
 ![welcome](./welcome-to-my-github-profile.gif)
 
-Hi, I'm a software developer and university student with a strong affinity for programming and mathematics. Currently my favorite language is [Rust](https://www.rust-lang.org/) and my favorite theorem is [Stokes' generalized theorem](https://en.wikipedia.org/wiki/Generalized_Stokes_theorem).
+Hi, I'm a software engineer and university student drawn to systems, backend, and mathematics. Currently my favorite language is [Rust](https://www.rust-lang.org/) and my favorite theorem is [Stokes' generalized theorem](https://en.wikipedia.org/wiki/Generalized_Stokes_theorem).
 
 ## My Skills
 
-[![my-skills](https://skillicons.dev/icons?i=rust,py,c,cs,dotnet,html,css,js,ts,nodejs,react,remix,angular,tailwind,bootstrap,materialui,express,fastapi,postman,prisma,mongodb,sqlite,postgresql,supabase,raspberrypi,aws,vercel,bash,latex,md)](https://skillicons.dev)
+[![my-skills](https://skillicons.dev/icons?i=rust,py,c,ts,bash,linux,nodejs,express,actix,fastapi,react,svelte,mongodb,sqlite,postgresql,aws,docker,k8s,raspberrypi,bevy,wasm,latex)](https://skillicons.dev)
 
 ## My Projects
 
 ### Noteworthy:
 
+- [live-piano-monitor](https://github.com/rootofminus1/live-piano-monitor) - live polyphonic piano transcription system (WIP)
+- [ScrapeScribe](https://github.com/orgs/ScrapeScribe) - scraping as a service
 - [tf2tts](https://github.com/rootofminus1/tf2tts) - a tts tool for tf2 gaming
-- [the-bot-v6](https://github.com/rootofminus1/the-bot-v6) - my rust discord bot
-- [timetables-v2](https://github.com/rootofminus1/timetables-v2) - college timetables enhancer web app
-- [unboxcat](https://github.com/rootofminus1/unboxcat) - a fun web app for cat enthusiasts
+- [celestenet-selfhost](https://github.com/rootofminus1/celestenet-selfhost) - an easy way to host CelesteNet servers in the cloud
+- [the-bot-v6](https://github.com/rootofminus1/the-bot-v6) - my personal rusty discord bot
 - [AutoSort](https://github.com/AmethystCash/AutoSort) - an IoT system for automatic trash sorting
-- [linalg-grade-calculator](https://github.com/rootofminus1/linalg-grade-calculator) - a web app for calculating grades in a linear algebra class
 
 ### Somewhat noteworthy:
 
-- [jp2cenzoapi](https://github.com/rootofminus1/jp2cenzoapi) - pope-oriented free api (WIP)
-- [Skyshop](https://github.com/rootofminus1/Skyshop) - a fictional skyrim-themed shop website
-- [ChatBinds](https://github.com/rootofminus1/ChatBinds) - a desktop app for creating custom chat message binds
-- [Vaporvape](https://github.com/rootofminus1/Vaporvape) - one of my first websites
+- [cleverbotfreeapi](https://github.com/rootofminus1/cleverbotfreeapi) - a rust crate for free cleverbot access
+- [real-life-invader](https://github.com/rootofminus1/real-life-invader) - a deliberately vulnerable website
+- [steam-gsr-watcher](https://github.com/rootofminus1/steam-gsr-watcher) - rust daemon that starts gpu screen recorder when steam games launch
 
-### Other less-noteworthy, unfinished, but still cool semi-projects and code samples:
+### Other less-noteworthy, but still cool semi-projects and code samples:
 
+- [servnex](https://github.com/rootofminus1/servnex) - multi-app deployments using free container hosting platforms
 - [song-rankdown-generator](https://github.com/rootofminus1/Python-tings/tree/main/Song%20Rankdowns/Sheet%20generator) - spreadsheet generator for a "song rankdown" game
 - [Mai'q the Liar](https://github.com/rootofminus1/Python-tings/tree/main/Maiq%20bot) - an older python discord bot
-- [sql-rust-macros](https://github.com/rootofminus1/Rust-tings/blob/main/marco-proc-workspace/hello_macro_derive/src/table_impl.rs) - sql-oriented rust macros, to be used in [the-bot-v6](https://github.com/rootofminus1atu/the-bot-v6) one day
+
 
